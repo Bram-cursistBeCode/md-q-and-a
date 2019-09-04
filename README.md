@@ -11,11 +11,16 @@ What are you ~~rea~~ **EATING** tonight?
 |what|i'm|eating|
 |---|---|----|
 |im|eating|_lasagna_|
+|im|eating|_fried rice_|
 
 what is your favorite animal. (strikethrough your anwser)
 
 ~~my favourite animal is a doggo pupper , as in the famous doge meme~~
+~~fish~~
 
 What is your preffered temperature outside? 
+~~_26 degree_~~
 
 Answer in Italic AND Striketrough 
+
+What's your name? (in bold )
