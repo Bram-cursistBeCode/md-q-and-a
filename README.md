@@ -29,4 +29,4 @@ What's your name? (in bold )
 
 ## Are there 5 (answered) questions on this readme? Answer in a fancy color please!
 
-[#f03c15](https://placehold.it/300x100/000000/ff69b4?text=There%20are%20now)
+ ![#f03c15](https://placehold.it/300x100/000000/ff69b4?text=There%20are%20now)
