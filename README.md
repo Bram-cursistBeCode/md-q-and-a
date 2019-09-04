@@ -14,4 +14,4 @@ What are you ~~rea~~ **EATING** tonight?
 
 what is your favorite animal. (strikethrough your anwser)
 
-~~my favourite animal is a doggo pupper , as in the famous doge meme~~
+~~my favourite animal is a doggo pupper , as in the famous doge meme
